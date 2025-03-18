@@ -1,7 +1,5 @@
 # Bajaj_Ecommerce_Sales_Dashboard
 
-### Dashboard Link : 
-
 ## Problem Statement
 
 Bajaj operates in multiple states across India, catering to various product categories through diverse
