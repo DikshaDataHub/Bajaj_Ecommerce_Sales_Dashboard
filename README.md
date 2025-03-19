@@ -1,4 +1,4 @@
-# Bajaj_Ecommerce_Sales_Dashboard
+# E-commerce Sales Insights Dashboard
 
 ## Problem Statement
 
